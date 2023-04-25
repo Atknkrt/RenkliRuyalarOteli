@@ -2,7 +2,7 @@
 
 namespace RenkliRuyalarOteli.DAL.Abstract
 {
-    public interface IOdaDAL : IRepositoryBase<Oda>
+    public interface IOdaDAL : IRepositoryBase<Oda>//yapıldı
     {
     }
 }
